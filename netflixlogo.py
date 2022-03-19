@@ -1,6 +1,9 @@
 from turtle import *
 bgcolor('black')
 right(90)
+
+#for position
+
 pos = [(-40,0),(40,0)]
 for x,y in pos:
     up()
